@@ -1,6 +1,8 @@
 # COMPENG 2SH4 Final 2020
 ## Exam Duration
-2.5 Hours (4:00 PM	to 6:30 PM)
+2.5 Hours (1:00 PM	to 3:30 PM), unless you have special instructions (e.g. SAS requirements). In that case, please follow them.
+
+As instructed during the course lectures, you are recommended to answer directly into your repo webpage and you can use an online compiler if you want (unless insturcted otherwise in the question).
 
 
 # Make sure you write first all the information below 
